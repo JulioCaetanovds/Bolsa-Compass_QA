@@ -31,3 +31,5 @@ git pull -Para trazer as atualições da nuvem para seu servidor local.OBS: inte
 git checkout -b nomedabranchdeorigem nomedanovabrach -Para criar uma branch nova com base em uma brach existente.
 
 touch .gitignore -Para criar um documento de texto onde dentro dele eu posso ignorar pastas para não adicionar no meu doc final.OBS: dentro dele vou escerever o nome do arquivo . qual arquivo ele é ou / se for de texto.
+
+![Comandos](https://github.com/JulioCaetanovds/RealityStone_JulioCaetano_Compass/blob/develop/assets/Screenshot_1.png)
