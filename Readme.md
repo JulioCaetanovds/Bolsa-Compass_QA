@@ -1,1 +1,1 @@
-Projeto Contendo tudo sobre o Programa de Bolsas-QA da Compass
+Repositório Contendo tudo sobre o Programa de Bolsas-QA da Compass
