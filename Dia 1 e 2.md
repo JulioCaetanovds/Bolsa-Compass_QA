@@ -1,6 +1,6 @@
-Dia 1 e 2 da MasterClass Presente na Sprint 4, Vendo os Primeiros videos sobre GIT e GitHub
+# Dia 1 e 2 da MasterClass Presente na Sprint 4, Vendo os Primeiros videos sobre GIT e GitHub
 
-Comandos:
+## Comandos:
 
 git init -Para iniciar a criação de um repositório, primeiro comando depois de criar uma pasta e abrir com o gitbash.
 
@@ -33,3 +33,18 @@ git checkout -b nomedabranchdeorigem nomedanovabrach -Para criar uma branch nova
 touch .gitignore -Para criar um documento de texto onde dentro dele eu posso ignorar pastas para não adicionar no meu doc final.OBS: dentro dele vou escerever o nome do arquivo . qual arquivo ele é ou / se for de texto.
 
 ![Comandos](https://github.com/JulioCaetanovds/RealityStone_JulioCaetano_Compass/blob/develop/assets/Screenshot_1.png)
+
+## Referências
+
+Gitflow(artigo atlassian)
+https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow
+
+Documentação oficial do Git
+https://git-scm.com/doc
+
+Vídeo (COMO USAR GIT E GITHUB NA PRÁTICA! - desde o primeiro commit até o pull request! 2/2) da Rafaella Ballerini
+https://www.youtube.com/watch?v=UBAX-13g8OM&ab_channel=RafaellaBallerini
+
+Vídeo (Curso de Git e Github COMPLETO 2023 [Iniciantes] + Desafios + Muita Prática) do Jonhatan de Souza
+https://www.youtube.com/watch?v=kB5e-gTAl_s&ab_channel=DevAprender%7CJhonatandeSouza
+
