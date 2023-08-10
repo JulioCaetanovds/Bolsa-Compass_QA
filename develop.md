@@ -1,1 +1,0 @@
-Aqui é onde irei dar commit diariamente dos projetos e exercícios.
