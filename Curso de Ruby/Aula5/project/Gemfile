@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+
+gem 'os'
+
+#Uso do comando bundle no terminal para installar gems de uma biblioteca e chamando a gem acima.
