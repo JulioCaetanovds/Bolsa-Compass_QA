@@ -32,7 +32,7 @@ git checkout -b nomedabranchdeorigem nomedanovabrach -Para criar uma branch nova
 
 touch .gitignore -Para criar um documento de texto onde dentro dele eu posso ignorar pastas para não adicionar no meu doc final.OBS: dentro dele vou escerever o nome do arquivo . qual arquivo ele é ou / se for de texto.
 
-![Comandos](https://github.com/JulioCaetanovds/RealityStone_JulioCaetano_Compass/blob/develop/assets/Screenshot_1.png)
+![Comandos](https://github.com/JulioCaetanovds/RealityStone_JulioCaetano_Compass/blob/develop/Dia1e2%20do%20MasterClass/Capturas%20de%20tela/Screenshot_1.png)
 
 ## Referências
 
