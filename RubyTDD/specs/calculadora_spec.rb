@@ -1,6 +1,6 @@
 require 'rspec'
 require 'pry'
-require '../src/calculadora.rb'
+require_relative '../src/calculadora.rb'
 
 describe('Calculadora') do
     calculadora = Calculadora.new
@@ -18,7 +18,6 @@ describe('Calculadora') do
     end
 
     it('Deve subtrair dois inteiros positivos') do
-        binding.pry
         expect(calculadora.subtrai(8, 2)).to eq 6
     end
 end
