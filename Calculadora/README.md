@@ -12,10 +12,14 @@ Criação de uma calculadora usando a linguagem ruby, e atravéz do uso do TDD c
 
 Para começar é preciso fazer a intalção da gem rspec, por meio do terminal de comando:
 
-´´´bundle install´´´
+```
+bundle install
+```
 
 # :white_check_mark: Executando o Projeto
 
 Para executar os testes na calculadora vamos executar o seguinte comando no terminal:
 
-´´´rspec specs\calculadora_spec.rb´´´
+```
+rspec specs\calculadora_spec.rb
+```
