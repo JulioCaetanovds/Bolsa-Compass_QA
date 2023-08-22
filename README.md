@@ -10,11 +10,11 @@ Até o momento deste documento, foram realizadas diversas atividades abrangendo 
 ### Metodologias Ágeis:
 Durante o período de estágio, tive a chance de aprender e praticar metodologias ágeis, compreendendo como elas são usadas no desenvolvimento de software. Isso envolveu a compreensão dos princípios fundamentais do Agile, como Scrum e Kanban.
 
-### Utilização de Git e GitHub:
-Aprofundei meu conhecimento em controle de versão ao usar o Git e o GitHub como plataforma para gerenciar o código-fonte. Isso facilitou a realização de atualizações e o rastreamento das alterações no código ao longo do tempo.
-
 ### Testes Exploratórios para E-commerce:
 Uma parte significativa do estágio foi dedicada à realização de testes exploratórios focados em aplicações de comércio eletrônico. Isso envolveu identificar cenários de uso, criar casos de teste, aplicar heurísticas e avaliar a experiência do usuário em diferentes situações de compra. Esses testes desempenham um papel crucial em garantir o bom funcionamento da aplicação para os usuários.
+
+### Utilização de Git e GitHub:
+Aprofundei meu conhecimento em controle de versão ao usar o Git e o GitHub como plataforma para gerenciar o código-fonte. Isso facilitou a realização de atualizações e o rastreamento das alterações no código ao longo do tempo.
 
 ### Testes usando Ruby e RSpec:
 Tive a oportunidade de usar a linguagem de programação Ruby para realizar testes. Os testes são eficazes para manter a estabilidade do software à medida que novos recursos são adicionados e alterações são feitas. Com Ruby, pude criar testes unitários que aumentaram a eficiência e a confiabilidade do software.
